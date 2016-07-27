@@ -1,4 +1,4 @@
-Genetic Algorithm capable of obtaining the best possible combinations of constraints for a consistency library
+Genetic Algorithm capable of obtaining the best possible combinations of constraints for a consistency library generate by TCoffee
 CL-GA
 =========
 GAlib is a set of C++ genetic algorithm objects.
@@ -9,7 +9,7 @@ Prerequisites
 --------------
 GAlib compilation requires the following tools installed on your system ``make``, ``gcc-c++`` and ``t_coffee``. 
 
-The inputs are hardcoded, you must specify in ``examples/GA_TC_lib.C`` the consistency library file (line 87), the parameter list (line 124-131), the MSA and the scoring tool with the input sequences (line 190-199).
+Some inputs are hardcoded. You must specify in ``examples/GA_TC_lib.C`` the consistency library file (line 87), the MSA and the scoring tool with the dataset (line 190-199).
 
 Compile 
 --------

@@ -28,7 +28,7 @@ The binary will be automatically generated in the folder.
 How to use
 --------
 
-    ./GA_TC_lib output_name length_of_the_gen
+    $ ./GA_TC_lib output_name length_of_the_gen
 
 
 Output files

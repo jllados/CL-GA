@@ -9,7 +9,7 @@ Prerequisites
 --------------
 GAlib compilation requires the following tools installed on your system ``make``, ``gcc-c++`` and ``t_coffee``. 
 
-The inputs are hardcoded, you must specify in ``examples/GA_TC_lib.C`` the consistency library file (line 87), the parameter list (line 122), the MSA tool (line 189) and the scoring tool (line 196).
+The inputs are hardcoded, you must specify in ``examples/GA_TC_lib.C`` the consistency library file (line 87), the parameter list (line 124-131), the MSA and the scoring tool with the input sequences (line 190-199).
 
 Compile 
 --------

@@ -9,6 +9,7 @@ Prerequisites
 --------------
 GAlib compilation requires the following tools installed on your system ``make``, ``gcc-c++`` and ``t_coffee``. 
 
+The inputs are hardcoded, you must specify the consistency library file (line 87), the MSA tool (line 189) and the scoring tool (line 196).
 
 Compile 
 --------

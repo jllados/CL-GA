@@ -1,5 +1,5 @@
 Genetic Algorithm capable of obtaining the best possible combinations of constraints for a consistency library
-MSA-GA
+CL-GA
 =========
 GAlib is a set of C++ genetic algorithm objects.
 The library includes tools for using genetic algorithms to do optimization in any C++ program.
@@ -7,7 +7,7 @@ The library includes tools for using genetic algorithms to do optimization in an
 
 Prerequisites
 --------------
-GAlib compilation requires the following tools installed on your system ``make``and ``gcc-c++``. 
+GAlib compilation requires the following tools installed on your system ``make``, ``gcc-c++`` and ``t_coffee``. 
 
 
 Compile 
